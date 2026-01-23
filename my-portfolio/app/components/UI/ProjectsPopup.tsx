@@ -8,7 +8,7 @@ const projects = [
   {
     title: 'CoderXYZ',
     description: 'Developer community platform built with the MERN stack.',
-    url: 'https://coderxyz.com/',
+    url: 'https://adhyatma-ce6a3.web.app/',
   },
   {
     title: 'Movie App',
@@ -18,7 +18,7 @@ const projects = [
   {
     title: 'Weather App',
     description: 'Real-time weather application with clean UI.',
-    url: 'https://coderxyz.com/', // replace if different
+    url: 'https://weatherapp-408b5.firebaseapp.com/', // replace if different
   },
 ];
 
