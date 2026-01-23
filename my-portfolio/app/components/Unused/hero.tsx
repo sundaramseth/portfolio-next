@@ -12,7 +12,7 @@ transition={{ duration: 0.6 }}
 className="grid gap-6 md:grid-cols-2 items-center"
 >
 <div>
-<h1 className="text-4xl md:text-5xl font-extrabold">Hi, Im <span className="text-indigo-600 dark:text-indigo-400">Your Name</span></h1>
+<h1 className="text-4xl md:text-5xl font-extrabold">Hi, Im <span className="text-indigo-600 dark:text-indigo-400">Sundaram</span></h1>
 <p className="mt-4 max-w-xl">Frontend Developer — building accessible, responsive, and delightful user experiences with React & Next.js.</p>
 <div className="mt-6 flex gap-4">
 <a href="/resume.pdf" className="px-4 py-2 rounded-md border">Download Resume</a>

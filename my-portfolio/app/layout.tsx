@@ -1,5 +1,4 @@
 import './globals.css';
-import { ThemeProvider } from 'next-themes';
 import React from 'react';
 
 
@@ -13,11 +12,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 return (
 <html lang="en">
 <body>
-<ThemeProvider attribute="class">
-<div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 flex flex-col items-center">
+<div className="min-h-screen bg-black text-white relative overflow-x-hidden">
 {children}
 </div>
-</ThemeProvider>
 </body>
 </html>
 );
